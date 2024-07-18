@@ -1,0 +1,14 @@
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\bin\Debug\net8.0\CollegeInheritence.exe
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\bin\Debug\net8.0\CollegeInheritence.deps.json
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\bin\Debug\net8.0\CollegeInheritence.runtimeconfig.json
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\bin\Debug\net8.0\CollegeInheritence.dll
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\bin\Debug\net8.0\CollegeInheritence.pdb
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\obj\Debug\net8.0\CollegeInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\obj\Debug\net8.0\CollegeInheritence.AssemblyInfoInputs.cache
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\obj\Debug\net8.0\CollegeInheritence.AssemblyInfo.cs
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\obj\Debug\net8.0\CollegeInheritence.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\obj\Debug\net8.0\CollegeInheritence.dll
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\obj\Debug\net8.0\refint\CollegeInheritence.dll
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\obj\Debug\net8.0\CollegeInheritence.pdb
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\obj\Debug\net8.0\CollegeInheritence.genruntimeconfig.cache
+C:\Users\sreerag.babu\source\repos\CollegeInheritence\obj\Debug\net8.0\ref\CollegeInheritence.dll
